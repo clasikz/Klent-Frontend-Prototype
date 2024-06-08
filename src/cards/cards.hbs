@@ -1,0 +1,13 @@
+<!-- card-template.hbs -->
+<div class="card-container">
+  {{#each cards}}
+  <div class="card">
+    <img src="{{image}}" alt="{{alt}}">
+    <div class="card-body">
+      <h3>{{title}}</h3>
+      <p>{{content}}</p>
+      <a href="{{link}}" class="btn">{{buttonText}}</a>
+    </div>
+  </div>
+  {{/each}}
+</div>

@@ -1,0 +1,15 @@
+.default-item {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.default-item h2 {
+  margin-top: 0;
+}
+
+.default-item p {
+  margin-bottom: 10px;
+}
