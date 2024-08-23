@@ -1,0 +1,69 @@
+{
+    "buttons": 
+    [
+        {
+            "class": "primary",
+            "text": "Primary"
+        },
+        {
+            "class": "secondary",
+            "text": "Secondary"
+        },
+        {
+            "class": "danger",
+            "text": "Danger"
+        },
+        {
+            "class": "success",
+            "text": "Success"
+        },
+        {
+            "class": "warning",
+            "text": "Warning"
+        },
+        {
+            "class": "info",
+            "text": "Info"
+        },
+        {
+            "class": "light",
+            "text": "Light"
+        },
+        {
+            "class": "dark",
+            "text": "Dark"
+        },
+        {
+            "class": "outline-primary",
+            "text": "Outline Primary"
+        },
+        {
+            "class": "outline-secondary",
+            "text": "Outline Secondary"
+        },
+        {
+            "class": "outline-success",
+            "text": "Outline Success"
+        },
+        {
+            "class": "outline-danger",
+            "text": "Outline Danger"
+        },
+        {
+            "class": "outline-warning",
+            "text": "Outline Warning"
+        },
+        {
+            "class": "outline-info",
+            "text": "Outline Info"
+        },
+        {
+            "class": "outline-light",
+            "text": "Outline Light"
+        },
+        {
+            "class": "outline-dark",
+            "text": "Outline Dark"
+        }
+    ]
+}

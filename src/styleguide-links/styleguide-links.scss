@@ -1,0 +1,17 @@
+.links-container {
+    flex: 1;
+    padding: 20px;
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        padding: 4px 8px;
+    }
+}
+
+.rendered-links-container {
+    padding: 20px 24px;
+}
